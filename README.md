@@ -1,5 +1,4 @@
 # Arabic-Probability-function
-Arabic Probability function
 
 This function was created to create more than one possibility for each word, 
 such as the word (ابراهيم). 

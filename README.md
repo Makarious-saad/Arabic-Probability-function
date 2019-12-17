@@ -1,4 +1,4 @@
-# Arabic-Probability-function
+# PHP function to create more than one possibility in Arabic
 
 This function was created to create more than one possibility for each word, 
 such as the word (ابراهيم). 
